@@ -1,0 +1,10 @@
+C:\Users\Yashic\substrate_collectables\target\debug\deps\libed25519_zebra-23e04a771d41e2ff.rmeta: C:\Users\Yashic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ed25519-zebra-4.0.3\src\lib.rs C:\Users\Yashic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ed25519-zebra-4.0.3\src\batch.rs C:\Users\Yashic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ed25519-zebra-4.0.3\src\error.rs C:\Users\Yashic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ed25519-zebra-4.0.3\src\signing_key.rs C:\Users\Yashic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ed25519-zebra-4.0.3\src\verification_key.rs C:\Users\Yashic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ed25519-zebra-4.0.3\src\../README.md
+
+C:\Users\Yashic\substrate_collectables\target\debug\deps\ed25519_zebra-23e04a771d41e2ff.d: C:\Users\Yashic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ed25519-zebra-4.0.3\src\lib.rs C:\Users\Yashic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ed25519-zebra-4.0.3\src\batch.rs C:\Users\Yashic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ed25519-zebra-4.0.3\src\error.rs C:\Users\Yashic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ed25519-zebra-4.0.3\src\signing_key.rs C:\Users\Yashic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ed25519-zebra-4.0.3\src\verification_key.rs C:\Users\Yashic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ed25519-zebra-4.0.3\src\../README.md
+
+C:\Users\Yashic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ed25519-zebra-4.0.3\src\lib.rs:
+C:\Users\Yashic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ed25519-zebra-4.0.3\src\batch.rs:
+C:\Users\Yashic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ed25519-zebra-4.0.3\src\error.rs:
+C:\Users\Yashic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ed25519-zebra-4.0.3\src\signing_key.rs:
+C:\Users\Yashic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ed25519-zebra-4.0.3\src\verification_key.rs:
+C:\Users\Yashic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ed25519-zebra-4.0.3\src\../README.md:

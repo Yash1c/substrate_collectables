@@ -1,0 +1,9 @@
+C:\Users\Yashic\substrate_collectables\target\debug\deps\libsp_application_crypto-8fa9cdcf7f7441d5.rmeta: C:\Users\Yashic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sp-application-crypto-38.0.0\src\lib.rs C:\Users\Yashic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sp-application-crypto-38.0.0\src\ecdsa.rs C:\Users\Yashic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sp-application-crypto-38.0.0\src\ed25519.rs C:\Users\Yashic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sp-application-crypto-38.0.0\src\sr25519.rs C:\Users\Yashic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sp-application-crypto-38.0.0\src\traits.rs
+
+C:\Users\Yashic\substrate_collectables\target\debug\deps\sp_application_crypto-8fa9cdcf7f7441d5.d: C:\Users\Yashic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sp-application-crypto-38.0.0\src\lib.rs C:\Users\Yashic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sp-application-crypto-38.0.0\src\ecdsa.rs C:\Users\Yashic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sp-application-crypto-38.0.0\src\ed25519.rs C:\Users\Yashic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sp-application-crypto-38.0.0\src\sr25519.rs C:\Users\Yashic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sp-application-crypto-38.0.0\src\traits.rs
+
+C:\Users\Yashic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sp-application-crypto-38.0.0\src\lib.rs:
+C:\Users\Yashic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sp-application-crypto-38.0.0\src\ecdsa.rs:
+C:\Users\Yashic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sp-application-crypto-38.0.0\src\ed25519.rs:
+C:\Users\Yashic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sp-application-crypto-38.0.0\src\sr25519.rs:
+C:\Users\Yashic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sp-application-crypto-38.0.0\src\traits.rs:
